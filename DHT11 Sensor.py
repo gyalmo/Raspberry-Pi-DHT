@@ -1,4 +1,5 @@
 #DHT11 Sensor
+
 import RPi.GPIO  as GPIO
 Import Adafruit_DHT
 import time as t
